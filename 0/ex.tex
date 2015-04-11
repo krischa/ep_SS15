@@ -7,8 +7,22 @@ U_P=&U_0\\
 U_{RMS}=&\frac{U_0}{\sqrt{2}}
 \end{eqnarray*}
 \subsection*{0.2.1.B}
-For a symmetrical rectangular voltage\footnote{In this case with $U_P=\SI{10}{\volt}$} 
+For a symmetrical rectangular voltage from $U_P$ to $-U_P$\footnote{In this case with $U_P=\SI{10}{\volt}$} 
 \begin{eqnarray*}
 	U_{RMS}=&0
 \end{eqnarray*}
 \subsection*{0.2.2.C}
+\begin{eqnarray*}
+	\text{To proof:} \quad R_i&=&\frac{U_2-U_1}{I_1-I_2}\\
+	U_n&=&U_0\frac{R_n}{R_n+R_i}\\
+	I_n&=&\frac{U_n}{R_n}\\
+	\Leftrightarrow I_n&=&U_0\frac{1}{R_n+R_i}\\
+	U_2-U_1&=&U_0\left(\frac{R_2}{R_2+R_i}-\frac{R_1}{R_1+R_i}\right)\\
+	I_1-I_2&=&U_0\left(\frac{1}{R_1+R_i}-\frac{1}{R_2-R_i}\right)\\
+	\Rightarrow\frac{U_2-U_1}{I_1-I_2}&=&\frac{\left(\frac{R_2}{R_2+R_i}-\frac{R_1}{R_1+R_i}\right)}{\left(\frac{1}{R_1+R_i}-\frac{1}{R_2+R_i}\right)}\\
+	&=&\frac{R_2\left(R_1+R_i\right)-R_1\left(R_2+R_i\right)}{R_2+R_i-R_1-R_i}\\
+	&=&\frac{R_i\left(R_2-R_1\right)}{R_2-R_1}\\
+	&=&R_i
+\end{eqnarray*}
+\newpage
+\subsection*{0.3.3.E}
