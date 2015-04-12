@@ -1,17 +1,19 @@
 \section{Preperational exercises}
-\subsection*{0.2.1.A}
+\subsection{0.2.1.A}
 \begin{eqnarray*}
 U(t)=&U_0\cdot\sin(\omega t)\\
 U_{PP}=&2\cdot U_0\\
 U_P=&U_0\\
 U_{RMS}=&\frac{U_0}{\sqrt{2}}
 \end{eqnarray*}
-\subsection*{0.2.1.B}
-For a symmetrical rectangular voltage from $U_P$ to $-U_P$\footnote{In this case with $U_P=\SI{10}{\volt}$} 
+\subsection{0.2.1.B}
+For a symmetrical rectangular voltage\footnote{In this case with $U_P=\SI{10}{\volt}$} 
 \begin{eqnarray*}
-	U_{RMS}=&0
+	U_{RMS}&=&\frac{U_0}{\sqrt{2}}\\
+	&=&\SI{7.07}{\volt}
 \end{eqnarray*}
-\subsection*{0.2.2.C}
+\subsection{0.2.2.C}
+\subsubsection{0.2.2.C.1}
 \begin{eqnarray*}
 	\text{To proof:} \quad R_i&=&\frac{U_2-U_1}{I_1-I_2}\\
 	U_n&=&U_0\frac{R_n}{R_n+R_i}\\
@@ -24,5 +26,22 @@ For a symmetrical rectangular voltage from $U_P$ to $-U_P$\footnote{In this case
 	&=&\frac{R_i\left(R_2-R_1\right)}{R_2-R_1}\\
 	&=&R_i
 \end{eqnarray*}
-\newpage
-\subsection*{0.3.3.E}
+\subsubsection{0.2.2.C.2}
+\begin{eqnarray*}
+	U_0&=&\SI{10}{\volt}\\
+	U_n(\SI{50}{\ohm})&=&\SI{5}{\volt}\\
+	U_n&=&U_0\frac{R_n}{R_n+R_i}\\
+	\Rightarrow R_i&=&\SI{50}{\ohm}
+\end{eqnarray*}
+\subsection{0.3.3.E}
+\begin{eqnarray*}
+	\text{To proof:} \quad B\Delta t&=&0.35\\
+	B&=&\frac{1}{2\pi\tau}\\
+	\Delta t&=&t(0.9U_0)-t(0.1U_0)\\
+	\text{Decharging-function of a capacitor:} \quad U(t)&=&U_0\exp\left(-\frac{t}{\tau}\right)\\
+	\frac{0.1}{0.9}&=&\exp\left(-\frac{\Delta t}{\tau}\right)\\
+	\Leftrightarrow\Delta t&=&-\ln\left(\frac{1}{9}\right)\tau\\
+	&=&2.197\tau\\
+	\Rightarrow B\Delta t&=&\frac{2.197}{2\pi}\\
+	&\approx&0.35
+\end{eqnarray*}
