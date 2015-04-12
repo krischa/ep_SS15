@@ -3,6 +3,8 @@
 \contentsline {subsection}{\numberline {2.1}Amplitudes of AC voltage}{3}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Measuring instruments}{3}{subsection.2.2}
 \contentsline {subsubsection}{\numberline {2.2.1}Measuring unit}{3}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Displaying unit}{3}{subsubsection.2.2.2}
+\contentsline {subsection}{\numberline {2.3}The oszilloscope}{3}{subsection.2.3}
 \contentsline {section}{\numberline {3}Preperational exercises}{4}{section.3}
 \contentsline {subsection}{\numberline {3.1}0.2.1.A}{4}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}0.2.1.B}{4}{subsection.3.2}
