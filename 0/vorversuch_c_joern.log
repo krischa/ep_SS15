@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2015.4.10)  12 APR 2015 12:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2015.4.10)  12 APR 2015 14:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -729,13 +729,24 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout2 = `bg.aux'.
 
 
-(./bg.tex) [3
+(./bg.tex
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ¦ in font cmr12!
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 12.
+ (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 12.
+) [3
 
 
 ]
 \openout2 = `ex.aux'.
 
- (./ex.tex [4
+ (./ex.tex
+[4
 
 
 ]) [5]
@@ -753,14 +764,14 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ]
 \openout2 = `data.aux'.
 
-
-(./data.tex) [8
+ (./data.tex) [8
 
 
 ]
 \openout2 = `eval.aux'.
 
- (./eval.tex) [9
+ (./eval.tex)
+[9
 
 
 ]
@@ -772,20 +783,26 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 20.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 20.
- (./vorversuch_c_joern.aux
-(./aims.aux) (./bg.aux) (./ex.aux) (./set.aux) (./proced.aux) (./data.aux)
-(./eval.aux) (./concl.aux))
+ (./vorversuch_c_joern.aux (./aims.aux) (./bg.aux)
+(./ex.aux) (./set.aux) (./proced.aux) (./data.aux) (./eval.aux) (./concl.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 20.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 20.
-Package rerunfilecheck Info: File `vorversuch_c_joern.out' has not changed.
-(rerunfilecheck)             Checksum: 4DAB4DA2D282537709355FAC1B7A0DF9;769.
+
+
+Package rerunfilecheck Warning: File `vorversuch_c_joern.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `vorversuch_c_joern.out':
+(rerunfilecheck)             Before: 7CF04E782C3F98655B7EC19A144D0E21;914
+(rerunfilecheck)             After:  8098F1294BB73800031877F3F604E2F1;988.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 20.
  ) 
 Here is how much of TeX's memory you used:
- 16163 strings out of 493109
- 314470 string characters out of 6140856
- 398943 words of memory out of 5000000
- 19422 multiletter control sequences out of 15000+600000
+ 16188 strings out of 493109
+ 314874 string characters out of 6140856
+ 398947 words of memory out of 5000000
+ 19441 multiletter control sequences out of 15000+600000
  16002 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,16n,48p,10399b,880s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -802,10 +819,10 @@ r/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmsy8.pfb>
-Output written on vorversuch_c_joern.pdf (10 pages, 144836 bytes).
+Output written on vorversuch_c_joern.pdf (10 pages, 154582 bytes).
 PDF statistics:
- 191 PDF objects out of 1000 (max. 8388607)
- 162 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 202 PDF objects out of 1000 (max. 8388607)
+ 173 compressed objects within 2 object streams
+ 30 named destinations out of 1000 (max. 500000)
+ 129 words of extra memory for PDF output out of 10000 (max. 10000000)
 
