@@ -10,5 +10,7 @@
 \contentsline {subsection}{\numberline {3.1}0.4.1.a}{5}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}0.4.1.b}{5}{subsection.3.2}
 \contentsline {section}{\numberline {4}Measurement}{6}{section.4}
+\contentsline {subsection}{\numberline {4.1}0.4.1.a}{6}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}0.4.1.b}{6}{subsection.4.2}
 \contentsline {section}{\numberline {5}Evaluation}{7}{section.5}
 \contentsline {section}{\numberline {6}Conclusion}{8}{section.6}
