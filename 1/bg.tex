@@ -13,4 +13,25 @@ The four characteristics of a cable\footnote{Resistance, inductance, capacity an
 	\gamma^2&=&z'\cdot y'\Rightarrow\text{damping}\\
 	solution: \quad U(x,t)&=&U_f(x,t)+U_b(x,t) \quad \text{f: forward, b: backwards}\\
 	I(x,t)&=&I_f(x,t)+I_b(x,t)
+\end{eqnarray*}\
+\subsection{Phase velocity and wave resistance}
+The phase velocity is:
+\begin{eqnarray*}
+v_{Ph}&=&\frac{c_0}{\sqrt{\epsilon_r\mu_r}}
 \end{eqnarray*}
+It is equal to the velocity of waves with equal wavelength in matter with equal $\epsilon_r$ and $\mu_r$.\\
+In lossless case the wave resistance is:
+\begin{eqnarray*}
+z&=&\sqrt{\frac{L'}{C'}}\\
+&=&\sqrt{\frac{\mu_r\mu_0}{\epsilon_r\epsilon_0}}\cdot\frac{\ln\left(\frac{r_a}{r_i}\right)}{2\pi}
+\end{eqnarray*}
+\subsection{Cable termination and adjustment}
+Inside a cable there is not only the incoming, but also a reversal wave of voltage or current.\\
+But depending on the termination it can be absorbed.
+\begin{itemize}
+\begin{table*}
+\begin{tabular}{ll}
+\item{adjusted termination}&\item{terminal resistance = wave resistance}
+\end{tabular}
+\end{table*}
+\end{itemize}
