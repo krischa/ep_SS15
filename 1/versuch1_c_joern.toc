@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}Theoretical background}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Conducting properties}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Expansion of waves in homogeneous cables}{2}{subsection.1.2}
+\contentsline {section}{\numberline {2}Preperational exercises}{3}{section.2}
+\contentsline {section}{\numberline {3}Experiment set-up}{4}{section.3}
+\contentsline {section}{\numberline {4}Procedure}{5}{section.4}
+\contentsline {section}{\numberline {5}Measurement}{6}{section.5}
+\contentsline {section}{\numberline {6}Evaluation}{7}{section.6}
+\contentsline {section}{\numberline {7}Conclusion}{8}{section.7}
