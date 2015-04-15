@@ -1,20 +1,27 @@
-\contentsline {section}{\numberline {1}Theoretical background}{2}{section.1}
-\contentsline {subsection}{\numberline {1.1}Conducting properties}{2}{subsection.1.1}
-\contentsline {subsection}{\numberline {1.2}Expansion of waves in homogeneous cables}{2}{subsection.1.2}
-\contentsline {subsection}{\numberline {1.3}Phase velocity and wave resistance}{2}{subsection.1.3}
-\contentsline {subsection}{\numberline {1.4}Cable termination and adjustment}{3}{subsection.1.4}
-\contentsline {section}{\numberline {2}Preperational exercises}{4}{section.2}
-\contentsline {subsection}{\numberline {2.1}1.A}{4}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}1.B}{4}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}1.C}{4}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}1.D}{4}{subsection.2.4}
-\contentsline {section}{\numberline {3}Experiment set-up}{6}{section.3}
-\contentsline {section}{\numberline {4}Procedure}{7}{section.4}
-\contentsline {subsection}{\numberline {4.1}1.5.1 Differentiator}{7}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}1.5.2 Pulses in cables}{7}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}1.5.3 Cable termination, delay}{7}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}1.5.4 Clipcable, damping}{7}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}1.5.5 $\SI {50}{\ohm }$-Cable RG-58 C/U}{7}{subsection.4.5}
-\contentsline {section}{\numberline {5}Measurement}{8}{section.5}
-\contentsline {section}{\numberline {6}Evaluation}{9}{section.6}
-\contentsline {section}{\numberline {7}Conclusion}{10}{section.7}
+\contentsline {section}{\numberline {1}Theoretical background}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Conducting properties}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Expansion of waves in homogeneous cables}{3}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Phase velocity and wave resistance}{3}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Cable termination and adjustment}{4}{subsection.1.4}
+\contentsline {section}{\numberline {2}Preperational exercises}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}1.A}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}1.B}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}1.C}{5}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}1.D}{5}{subsection.2.4}
+\contentsline {section}{\numberline {3}Experiment set-up}{7}{section.3}
+\contentsline {section}{\numberline {4}Procedure}{8}{section.4}
+\contentsline {subsection}{\numberline {4.1}1.5.1 Differentiator}{8}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}1.5.2 Pulses in cables}{8}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}1.5.3 Cable termination, delay}{8}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}a)/b)}{8}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}c)}{8}{subsubsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.3}d)}{8}{subsubsection.4.3.3}
+\contentsline {subsection}{\numberline {4.4}1.5.4 Clipcable, damping}{8}{subsection.4.4}
+\contentsline {subsubsection}{\numberline {4.4.1}a)}{8}{subsubsection.4.4.1}
+\contentsline {subsubsection}{\numberline {4.4.2}b)}{8}{subsubsection.4.4.2}
+\contentsline {subsubsection}{\numberline {4.4.3}c)/d)}{8}{subsubsection.4.4.3}
+\contentsline {subsubsection}{\numberline {4.4.4}e)}{9}{subsubsection.4.4.4}
+\contentsline {subsection}{\numberline {4.5}1.5.5 $\SI {50}{\ohm }$-Cable RG-58 C/U}{9}{subsection.4.5}
+\contentsline {section}{\numberline {5}Measurement}{10}{section.5}
+\contentsline {section}{\numberline {6}Evaluation}{11}{section.6}
+\contentsline {section}{\numberline {7}Conclusion}{12}{section.7}
