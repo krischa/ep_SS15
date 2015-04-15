@@ -17,3 +17,29 @@ Connected cable $\Rightarrow$ no reflexion.
 	&=&\sqrt{\frac{R'+i\omega L'}{G'+i\omega C'}}
 \end{eqnarray*}
 Therefor $R_{in}$ does not depend on the length of the cable.
+\subsection{1.D}
+\begin{eqnarray}
+	Z&=&\frac{U_f}{I_f}
+\end{eqnarray}
+Without reversal wave: $Z_{in}=Z$\\
+In this case:
+\begin{eqnarray}
+	Z_{in}&=&\frac{U_f(l)+U_r(l)}{I_f(l)+I_r(l)}
+\end{eqnarray}
+\begin{eqnarray*}
+	I_r(l)+I_f(l)&=&0\\
+	U_r(l)-U_f(l)&=&0\\
+	U_f(l)+U_r(l)&=&\left(U_f(0)\exp{-\gamma x}+U_r(0)\exp{\gamma x}\right)\exp{i\omega t}\\
+	U_f(0)\exp{-\gamma x}&=&U_r(0)\exp{\gamma x}\\
+	U_f(0)\exp{-2\gamma x}&=&U_r(0)
+\end{eqnarray*}
+The current is analogue to this.\\
+In combination with equation (2) and (1) we get:
+\begin{eqnarray*}
+	Z_{in}&=&\frac{U_f(l)}{I_f(l)}\left(1+\exp -2\gamma x\right)\\
+	Z_{in}&=&Z\left(1+\exp -2\gamma x\right)\\
+	Y&=&Y'=0 \quad \text{(lossless cable)}\\
+	\Rightarrow \gamma&=&0\\
+	\Rightarrow Z_{in}&=&2Z
+\end{eqnarray*}
+The impedance is independent of cable length, wavelength and frequency.
