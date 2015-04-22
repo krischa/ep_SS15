@@ -8,20 +8,24 @@
 \contentsline {subsection}{\numberline {2.2}1.B}{5}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}1.C}{5}{subsection.2.3}
 \contentsline {subsection}{\numberline {2.4}1.D}{5}{subsection.2.4}
-\contentsline {section}{\numberline {3}Experiment set-up}{7}{section.3}
-\contentsline {section}{\numberline {4}Procedure}{8}{section.4}
-\contentsline {subsection}{\numberline {4.1}1.5.1 Differentiator}{8}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}1.5.2 Pulses in cables}{8}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}1.5.3 Cable termination, delay}{8}{subsection.4.3}
-\contentsline {subsubsection}{\numberline {4.3.1}a)/b)}{8}{subsubsection.4.3.1}
-\contentsline {subsubsection}{\numberline {4.3.2}c)}{8}{subsubsection.4.3.2}
-\contentsline {subsubsection}{\numberline {4.3.3}d)}{8}{subsubsection.4.3.3}
-\contentsline {subsection}{\numberline {4.4}1.5.4 Clipcable, damping}{8}{subsection.4.4}
-\contentsline {subsubsection}{\numberline {4.4.1}a)}{8}{subsubsection.4.4.1}
-\contentsline {subsubsection}{\numberline {4.4.2}b)}{8}{subsubsection.4.4.2}
-\contentsline {subsubsection}{\numberline {4.4.3}c)/d)}{8}{subsubsection.4.4.3}
-\contentsline {subsubsection}{\numberline {4.4.4}e)}{9}{subsubsection.4.4.4}
-\contentsline {subsection}{\numberline {4.5}1.5.5 $\SI {50}{\ohm }$-Cable RG-58 C/U}{9}{subsection.4.5}
-\contentsline {section}{\numberline {5}Measurement}{10}{section.5}
-\contentsline {section}{\numberline {6}Evaluation}{11}{section.6}
-\contentsline {section}{\numberline {7}Conclusion}{12}{section.7}
+\contentsline {section}{\numberline {3}Procedure}{7}{section.3}
+\contentsline {subsection}{\numberline {3.1}1.5.1 Differentiator}{7}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}1.5.2 Pulses in cables}{7}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}1.5.3 Cable termination, delay}{7}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}a)/b)}{7}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}c)}{7}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}d)}{7}{subsubsection.3.3.3}
+\contentsline {subsection}{\numberline {3.4}1.5.4 Clipcable, damping}{7}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}a)}{7}{subsubsection.3.4.1}
+\contentsline {subsubsection}{\numberline {3.4.2}b)}{7}{subsubsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.3}c)/d)}{7}{subsubsection.3.4.3}
+\contentsline {subsubsection}{\numberline {3.4.4}e)}{8}{subsubsection.3.4.4}
+\contentsline {subsection}{\numberline {3.5}1.5.5 $\SI {50}{\ohm }$-Cable RG-58 C/U}{8}{subsection.3.5}
+\contentsline {section}{\numberline {4}Measurement}{9}{section.4}
+\contentsline {subsection}{\numberline {4.1}1.5.1}{9}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}1.5.2}{9}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}1.5.3}{10}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}a)/b)}{10}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}c)}{10}{subsubsection.4.3.2}
+\contentsline {section}{\numberline {5}Evaluation}{11}{section.5}
+\contentsline {subsection}{\numberline {5.1}1.5.1}{11}{subsection.5.1}
